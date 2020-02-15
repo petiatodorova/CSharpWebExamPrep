@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Administrator\Desktop\CSharpWebExamPrep\Exam-Framework\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
